@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "E:\\PLACE\\HelloAR\\app\\build\\intermediates\\res\\merged\\debug\\raw\\tris.MD2",
+        "source": "E:\\PLACE\\HelloAR\\app\\src\\main\\res\\raw\\tris.MD2"
+    },
+    {
+        "merged": "E:\\PLACE\\HelloAR\\app\\build\\intermediates\\res\\merged\\debug\\raw\\camaro_mtl",
+        "source": "E:\\PLACE\\HelloAR\\app\\src\\main\\res\\raw\\camaro_mtl"
+    },
+    {
+        "merged": "E:\\PLACE\\HelloAR\\app\\build\\intermediates\\res\\merged\\debug\\raw\\camaro2_obj",
+        "source": "E:\\PLACE\\HelloAR\\app\\src\\main\\res\\raw\\camaro2_obj"
+    },
+    {
+        "merged": "E:\\PLACE\\HelloAR\\app\\build\\intermediates\\res\\merged\\debug\\raw\\pikaqiu.mp3",
+        "source": "E:\\PLACE\\HelloAR\\app\\src\\main\\res\\raw\\pikaqiu.mp3"
+    },
+    {
+        "merged": "E:\\PLACE\\HelloAR\\app\\build\\intermediates\\res\\merged\\debug\\raw\\ogro.md2",
+        "source": "E:\\PLACE\\HelloAR\\app\\src\\main\\res\\raw\\ogro.md2"
+    },
+    {
+        "merged": "E:\\PLACE\\HelloAR\\app\\build\\intermediates\\res\\merged\\debug\\raw\\camaro_obj",
+        "source": "E:\\PLACE\\HelloAR\\app\\src\\main\\res\\raw\\camaro_obj"
+    },
+    {
+        "merged": "E:\\PLACE\\HelloAR\\app\\build\\intermediates\\res\\merged\\debug\\raw\\monster_high.3ds",
+        "source": "E:\\PLACE\\HelloAR\\app\\src\\main\\res\\raw\\monster_high.3ds"
+    },
+    {
+        "merged": "E:\\PLACE\\HelloAR\\app\\build\\intermediates\\res\\merged\\debug\\raw\\camaro2_mtl",
+        "source": "E:\\PLACE\\HelloAR\\app\\src\\main\\res\\raw\\camaro2_mtl"
+    },
+    {
+        "merged": "E:\\PLACE\\HelloAR\\app\\build\\intermediates\\res\\merged\\debug\\raw\\shake.mp3",
+        "source": "E:\\PLACE\\HelloAR\\app\\src\\main\\res\\raw\\shake.mp3"
+    }
+]

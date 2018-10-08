@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\PLACE\HelloAR\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="E:\PLACE\HelloAR\app\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_20641fc01241b34294a68c071feef59e6e43cae0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\PLACE\HelloAR\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="E:\PLACE\HelloAR\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.4.0_5678acc86226de0443aeb157ac71097ba439c851.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\PLACE\HelloAR\app\libs\EasyAR.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="76897f1f230cf857ea84d8b64deb73803d7839a6">
+        <dex dex="E:\PLACE\HelloAR\app\build\intermediates\pre-dexed\debug\EasyAR_99074aaa1a36473ba7752c528b459e750d894073.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="E:\PLACE\HelloAR\app\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_ff29343e76156bb2992d43788fdbd51cd90a4617.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\PLACE\HelloAR\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="E:\PLACE\HelloAR\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.4.0_b1fe5991686831a6cd76c8e73d4408e9c2a51d1d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\PLACE\HelloAR\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="E:\PLACE\HelloAR\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.4.0_31275454094f078c91de28989fbdeaa30dee5060.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="E:\PLACE\HelloAR\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_1fab95ed971bcbde83d7e166f54a6335562e9872.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\PLACE\HelloAR\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="E:\PLACE\HelloAR\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.4.0_23948bf9ed9337e48ad2f0e8b69b4ff6533a3384.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\PLACE\HelloAR\app\build\intermediates\exploded-aar\com.android.support.constraint\constraint-layout\1.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="E:\PLACE\HelloAR\app\build\intermediates\pre-dexed\debug\com.android.support.constraint-constraint-layout-1.0.2_1335f97ce5e51211da2e1eb8d83b99fa225312cf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\PLACE\HelloAR\app\libs\Msc.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="87c9c56d351f41f7e5fd29a036a13ceccf885e15">
+        <dex dex="E:\PLACE\HelloAR\app\build\intermediates\pre-dexed\debug\Msc_d35194b80a9ba64946997b87baafec3b79b44627.jar" />
+    </item>
+
+</items>
