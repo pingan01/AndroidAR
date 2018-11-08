@@ -1,6 +1,6 @@
 # AndroidAR
-利用EasyAR进行简单的AR扫描与红包效果，
-Android中借助EasyAR识别显示obj模型，并对模型进行简单的旋转动画
+利用EasyAR进行简单的AR识别与红包效果，
+Android中利用OpenGL引擎，借助EasyAR SDK识别显示obj(静态)模型，在代码中对模型进行简单的旋转/放大/缩小/
 效果图如下:
 
 ![image](https://github.com/pingan01/AndroidAR/blob/master/device-2017-11-04-173520.png)
